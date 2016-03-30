@@ -1,0 +1,9 @@
+{
+  "name": “Socket.IO - Uni Mannheim”,
+  "version": "1.0",
+  "description": "Socket.IO Client for Swift Team Project, Server-side implementation",
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.4.4"
+  }
+}
